@@ -57,7 +57,6 @@ Hurray! That's it! Enjoy browsing!
  - 📅 Due date and overdue book notification
  - 📈 Analytics for book popularity
  - 📨 Email notifications for reminders
- - 🔐 Password reset functionality
 
 
 🙋‍♀️ Author Purva Jadhav
