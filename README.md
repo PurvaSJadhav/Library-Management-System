@@ -47,17 +47,17 @@ A web-based Library Management System built using **PHP** and **MySQL** that ena
 7. In phpmyadmin page, create a new database from the left panel and name it as 'library_management_db'
 8. Click on import and import the sql file of name 'library_management_db' from project folder and click import.
 9. Open a new tab and type 'localhost/library_management' in the url of your browser
-10. check README.txt for admin credentials.
+10. Check README.txt for admin credentials.
 Hurray! That's it! Enjoy browsing!
 
 ---
 
 ## 📌 Future Enhancements
 
-📅 Due date and overdue book notification
-📈 Analytics for book popularity
-📨 Email notifications for reminders
-🔐 Password reset functionality
+ - 📅 Due date and overdue book notification
+ - 📈 Analytics for book popularity
+ - 📨 Email notifications for reminders
+ - 🔐 Password reset functionality
 
 
 🙋‍♀️ Author Purva Jadhav
