@@ -29,7 +29,7 @@
       <i class="fas fa-bars"></i>
     </button>
             
-    <h4 style="padding-top: 8px;">Library Management System</h4>
+    <h4 style="padding-top: 8px;">LibraTrack-Library Management System</h4>
 
     
            
